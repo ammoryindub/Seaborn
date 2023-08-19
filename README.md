@@ -21,5 +21,4 @@
   
 - Swarmplot
 
-- 
-    *
+##### Categorical plots:
