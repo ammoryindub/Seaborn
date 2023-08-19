@@ -7,6 +7,8 @@
 
 - Importing data
 
-- Joined plot
+- Jointplot
+
+- Distplot
 
 - Histplot
