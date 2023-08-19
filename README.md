@@ -12,3 +12,5 @@
 - Distplot
 
 - Histplot
+
+- Box plot
