@@ -5,4 +5,6 @@
 
 - Importing libraries
 
-- Importing data 
+- Importing data
+
+- Joined plot
