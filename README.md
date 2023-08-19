@@ -8,3 +8,5 @@
 - Importing data
 
 - Joined plot
+
+- Histplot
