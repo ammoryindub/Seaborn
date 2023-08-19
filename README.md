@@ -16,3 +16,6 @@
 - Box plot
   
 - Swarmplot
+
+- Distributional plots:
+    *
