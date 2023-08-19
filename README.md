@@ -1,6 +1,8 @@
 # Seaborn
 
 
-#### seabirn referred to as sns
+#### seaborn referred to as sns
 
-- Importing libraries 
+- Importing libraries
+
+- Importing data 
