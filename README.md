@@ -14,3 +14,5 @@
 - Histplot
 
 - Box plot
+  
+- Swarmplot
