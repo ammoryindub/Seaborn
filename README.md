@@ -24,3 +24,5 @@
 ##### Categorical plots:
 
 ##### Matrix/Grid plots:
+
+##### Regression plot
