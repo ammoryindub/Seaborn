@@ -7,6 +7,10 @@
 
 - Importing data
 
+#### plots used
+
+##### Distributional plots:
+
 - Jointplot
 
 - Distplot
@@ -17,5 +21,5 @@
   
 - Swarmplot
 
-- Distributional plots:
+- 
     *
