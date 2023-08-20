@@ -15,11 +15,13 @@
 
 - Distplot
 
-- Histplot
+- Histplot(Histogram)
 
 - Box plot
   
 - Swarmplot
+
+- 
 
 ##### Categorical plots:
 - Bar plot
