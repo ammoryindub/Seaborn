@@ -33,4 +33,6 @@
 
 -Pair plot
 
+- Cluster plot
+
 ##### Regression plot
