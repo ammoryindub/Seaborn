@@ -24,7 +24,7 @@
 ##### Categorical plots:
 - Bar plot
 
-- 
+- Point plot
 
 ##### Matrix/Grid plots:
 
