@@ -31,4 +31,6 @@
 ##### Matrix/Grid plots:
 -Heatmap
 
+-Pair plot
+
 ##### Regression plot
