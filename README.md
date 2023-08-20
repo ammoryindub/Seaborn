@@ -22,6 +22,9 @@
 - Swarmplot
 
 ##### Categorical plots:
+- Bar plot
+
+- 
 
 ##### Matrix/Grid plots:
 
