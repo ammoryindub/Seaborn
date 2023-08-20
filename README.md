@@ -21,7 +21,7 @@
   
 - Swarmplot
 
-- 
+- KDE plot
 
 ##### Categorical plots:
 - Bar plot
