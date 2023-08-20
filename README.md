@@ -29,5 +29,6 @@
 - Boxen Plot
 
 ##### Matrix/Grid plots:
+-Heatmap
 
 ##### Regression plot
