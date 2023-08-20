@@ -26,6 +26,8 @@
 
 - Point plot
 
+- Boxen Plot
+
 ##### Matrix/Grid plots:
 
 ##### Regression plot
