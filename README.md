@@ -23,6 +23,8 @@
 
 - KDE plot
 
+- Violin plot
+
 ##### Categorical plots:
 - Bar plot
 
