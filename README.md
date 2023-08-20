@@ -29,9 +29,9 @@
 - Boxen Plot
 
 ##### Matrix/Grid plots:
--Heatmap
+- Heatmap
 
--Pair plot
+- Pair plot
 
 - Cluster plot
 
